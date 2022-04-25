@@ -1,0 +1,68 @@
+{
+    "project_info": {
+      "project_number": "951644414969",
+      "project_id": "prisma-1fab1",
+      "storage_bucket": "prisma-1fab1.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:951644414969:android:f57b4a46b85786d2e05328",
+          "android_client_info": {
+            "package_name": "com.chatbot"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "951644414969-b7ohor3bebb6u122dnpcpblpodc8ii76.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDsiSEb27gYydPDRjY5Kn0RAhQo12-U1Xw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "951644414969-b7ohor3bebb6u122dnpcpblpodc8ii76.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:951644414969:android:4d1f36494dbbc8c1e05328",
+          "android_client_info": {
+            "package_name": "com.firebase"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "951644414969-b7ohor3bebb6u122dnpcpblpodc8ii76.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDsiSEb27gYydPDRjY5Kn0RAhQo12-U1Xw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "951644414969-b7ohor3bebb6u122dnpcpblpodc8ii76.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
