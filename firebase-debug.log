@@ -1,0 +1,32 @@
+[debug] [2022-04-26T06:56:00.289Z] ----------------------------------------------------------------------
+[debug] [2022-04-26T06:56:00.291Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Prathyuma\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-26T06:56:00.292Z] CLI Version:   10.7.1
+[debug] [2022-04-26T06:56:00.292Z] Platform:      win32
+[debug] [2022-04-26T06:56:00.292Z] Node Version:  v16.13.1
+[debug] [2022-04-26T06:56:00.294Z] Time:          Tue Apr 26 2022 12:26:00 GMT+0530 (India Standard Time)
+[debug] [2022-04-26T06:56:00.294Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-26T06:56:00.376Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-26T06:56:00.376Z] > authorizing via signed-in user (vprathyuma@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Android Club\Chatbot
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2022-04-26T07:04:41.521Z] Error: kill ENOSYS
+    at process.kill (node:internal/process/per_thread:215:13)
+    at process.listener (C:\Users\Prathyuma\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (node:events:390:28)
+[error] 
+[error] Error: An unexpected error has occurred.
