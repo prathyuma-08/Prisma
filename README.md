@@ -2,60 +2,8 @@
 
 This app is used to view the details of VIT Chennai in an easier way. It also has a Chatbot feature which helps to resolve the most frequently asked questions about the Admissions and Contact details. 
 
-## Installing Dependencies
 
-**DIALOGFLOW**
-
-DialogFlow is used to generate the responses required for the Chatbot. 
-
-Install [Dialogflow](https://www.npmjs.com/package/react-native-dialogflow) using the commands:
-```
-npm install --save react-native-dialogflow react-native-voice
-react-native link react-native-dialogflow
-react-native link react-native-voice
-```
-
-**GIFTED CHAT**
-
-Gifted chat is used here to build the UI for chatbot and handle the responses got from Dialogflow.
-
-Install [Gifted Chat](https://www.npmjs.com/package/react-native-gifted-chat) using the command:
-```
-npm install react-native-gifted-chat --save
-```
-
-**FIREBASE**
-
-Firebase is used to authenticate the user login. It records the username and their login details in the firebase dashboard.
-
-Install [Firebase](https://rnfirebase.io/) using the command:
-```
-npm install --save @react-native-firebase/app
-```
-
-**STACK NAVIGATOR**
-
-Stack navigation used to navigate between the screens where each new screen is placed on the top of a stack.
-
-Install [Stack Navigation](https://reactnavigation.org/docs/stack-navigator/) using the commands:
-```
-npm install @react-navigation/native
-npm install react-native-screens react-native-safe-area-context
-npm install @react-navigation/stack
-npm install react-native-gesture-handler
-```
-
-**TEXT TO SPEECH**
-
-This feature converts the text output got from Dialogflow to speech.
-
-Install [Text to Speech](https://www.npmjs.com/package/react-native-tts) using the commands:
-```
-npm install --save react-native-tts
-react-native link react-native-tts
-```
-
-## Screenshot of the App
+## Screenshots of the App
 
 **Image 1: The Login Screen**
 
